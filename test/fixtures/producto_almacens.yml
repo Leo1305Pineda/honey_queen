@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  producto: one
+  almacen: one
+  cantidad: 
+  cantidad_comprometida: 
+  reorden: 
+
+two:
+  producto: two
+  almacen: two
+  cantidad: 
+  cantidad_comprometida: 
+  reorden: 

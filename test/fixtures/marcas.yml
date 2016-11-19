@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  marca: marca1
+
+two:
+  marca: marca2
+
+tree:
+  marca: marca3
+
+four:
+  marca: marca4
+
+five:
+  marca: marca5
+
+six:
+  marca: marca6 
